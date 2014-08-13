@@ -1,7 +1,7 @@
 {
   "name": "ember-dc",
   "description": "Multi-Dimensional charts, graphs, maps, data-table with crossfilter and d3.js (dc.js)",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": [
     "ember-dc.js",
     "ember-dc.css"
